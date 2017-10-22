@@ -16,5 +16,5 @@ set(
 )
 
 cuda_add_executable(
-matrix_matrix_mul
-matrix_matrix_mul.cu)
+matrix_matrix_mul2
+matrix_matrix_mul2.cu)
