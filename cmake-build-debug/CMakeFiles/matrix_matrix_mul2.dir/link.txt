@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/matrix_matrix_mul2.dir/./matrix_matrix_mul2_generated_matrix_matrix_mul2.cu.o  -o matrix_matrix_mul2 -rdynamic /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 
